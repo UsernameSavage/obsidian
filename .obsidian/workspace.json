@@ -4,19 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b8ce2c8f0f5ba803",
+        "id": "5d29077e0e63906b",
         "type": "tabs",
         "children": [
           {
-            "id": "6b94c2bbc7a47f7c",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "07aaddcc4df5392d",
+            "id": "5c7cfedfb765698b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -26,45 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "602fc7afab0fa868",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "How to psh obsidian to github.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5f0a0894b4edd443",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux Commands.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "37de469343bf750b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux Commands.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux Commands.md",
+                "file": "Docker Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux Commands.md",
+                "file": "Docker Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux Commands.md"
+                "file": "Docker Commands.md"
               }
             }
           }
@@ -191,11 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "37de469343bf750b",
+  "active": "5c7cfedfb765698b",
   "lastOpenFiles": [
-    "SSH Key.md",
-    "How to psh obsidian to github.md",
+    "test.md",
     "Docker Commands.md",
-    "Linux Commands.md"
+    "SSH Key.md",
+    "Linux Commands.md",
+    "How to psh obsidian to github.md"
   ]
 }
