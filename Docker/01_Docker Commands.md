@@ -16,3 +16,6 @@ Container mit `docker rm containername` entfernen = Image läuft nicht mehr
 `docker image build -t webapp-123 "path"` = Erstellt ein Image mithilfe eines Dockerfiles der sich im angegebenen Pfad befindet
 `docker run -p 8282:8080 -t webapp-color` = Host Port: 8282 ext), Container Port: 8080(int)
 `docker run -d --name blue-app -p 38282:8080 -e APP_COLOR=blue imagename` = mit -e kannst du im Dockerfile eine Variable ändern
+`docker run -d --name=clickcounter --link redis:redis -p 8085:5000 kodekloud/click-counter`  = 2 Container miteinander Linken
+
+["ENTRYPOINT"]= ex. ENTRYPOINT ["sleep"] = docker run ubuntu-sleeper 10 Mit ENTRYPOINT kannst du eine Variable erstellen die im Befehl eingegeben wird

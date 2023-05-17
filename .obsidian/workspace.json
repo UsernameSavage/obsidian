@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker Commands.md",
+                "file": "Linux/Linux Commands.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker Commands.md",
+                "file": "Linux/Linux Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker Commands.md",
+                "file": "Linux/Linux Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker Commands.md"
+                "file": "Linux/Linux Commands.md"
               }
             }
           }
@@ -148,10 +148,33 @@
   },
   "active": "5c7cfedfb765698b",
   "lastOpenFiles": [
-    "test.md",
-    "Docker Commands.md",
-    "SSH Key.md",
-    "Linux Commands.md",
-    "How to psh obsidian to github.md"
+    "Docker/01_Docker Commands.md",
+    "Docker/02_Docker Compose/Example for Docker Compose.md",
+    "xPNGs/Pasted image 20230517125610.png",
+    "xPNGs/Docker-Compose_example4.0.png",
+    "xPNGs/Docker-Compose_example2.0.png",
+    "xPNGs/Docker-Compose_example.png",
+    "SSH Key/SSH Key-Definition.md",
+    "SSH Key/SSH Key Commands.md",
+    "Linux/Linux Commands.md",
+    "Github/How to psh obsidian to github.md",
+    "Pasted image 20230517112119.png",
+    "xPNGs/Docker-Compose_example3.0.png",
+    "Pasted image 20230517111145.png",
+    "Docker-Compose_example2.0.md",
+    "Pasted image 20230517091047.png.md",
+    "SSH Key",
+    "Untitled",
+    "xPNGs",
+    "Linux",
+    "Github",
+    "Pasted image 20230517110543.png",
+    "Docker/02_Docker Compose",
+    "Docker",
+    "Pasted image 20230517110353.png.md",
+    "Pasted image 20230517110407.png.md",
+    "Pasted image 20230517110346.png",
+    "Pasted image 20230517110353.png",
+    "test.md"
   ]
 }
