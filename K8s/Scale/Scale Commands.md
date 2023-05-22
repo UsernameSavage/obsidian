@@ -1,0 +1,1 @@
+kubectl scale rs podname --replicas=5 = Scale the pods up to 5

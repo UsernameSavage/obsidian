@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5c7cfedfb765698b",
+            "id": "569e519f6df3df66",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Linux Commands.md",
+                "file": "Github/How to push obsidian to github.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Linux Commands.md",
+                "file": "Github/How to push obsidian to github.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Linux Commands.md",
+                "file": "Github/How to push obsidian to github.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Linux Commands.md"
+                "file": "Github/How to push obsidian to github.md"
               }
             }
           }
@@ -133,7 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -146,35 +146,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5c7cfedfb765698b",
+  "active": "569e519f6df3df66",
   "lastOpenFiles": [
+    "K8s/YAML/YAML with ReplicationController.md",
+    "K8s/01_Kubernetes Definition.md",
+    "K8s/02_Kubernetes-Begriffe.md",
+    "K8s/03_Commands.md",
+    "K8s/Replica/03_Replica Controller.md",
+    "K8s/Replica/04_Replica Commans.md",
+    "K8s/Replica/01_Replicas.md",
+    "K8s/YAML/YAML in k8s.md",
+    "K8s/Cluster.md",
+    "K8s/04_Kubernetes Run-Commands.md",
     "Docker/01_Docker Commands.md",
+    "K8s/Pods/Pods Definition.md",
+    "K8s/Pods/Pod Commands.md",
+    "Docker/Docker Network.md",
     "Docker/02_Docker Compose/Example for Docker Compose.md",
-    "xPNGs/Pasted image 20230517125610.png",
-    "xPNGs/Docker-Compose_example4.0.png",
-    "xPNGs/Docker-Compose_example2.0.png",
-    "xPNGs/Docker-Compose_example.png",
+    "K8s/Replica/02_Replica Set.md",
+    "xPNGs/K8s/YAML-RC.png",
+    "K8s/YAML",
+    "K8s/Replica",
     "SSH Key/SSH Key-Definition.md",
-    "SSH Key/SSH Key Commands.md",
+    "xPNGs/Docker/Docker-compose-example5.0.png",
+    "K8s/Replicas.md",
+    "xPNGs/K8s/YAML-k8s.png",
+    "xPNGs/Pasted image 20230522125233.png",
+    "K8s/Scale/Scale Commands.md",
+    "K8s/Scale",
+    "K8s/Untitled/Scale Commands.md",
+    "K8s/Replica",
+    "xPNGs/K8s/k8s-Pod.png",
+    "xPNGs/K8s/kubectl-describe.png",
+    "xPNGs/K8s/kubectl-describe2.0.png",
+    "xPNGs/K8s/kubectl-describe3.0.png",
+    "kubectl-describe.png.md",
+    "xPNGs/K8s/kubectl-describe3.0.png",
+    "xPNGs/Docker",
+    "xPNGs/K8s",
+    "xPNGs/Pasted image 20230522113300 1.png",
+    "K8s/Pods",
+    "K8s",
     "Linux/Linux Commands.md",
-    "Github/How to psh obsidian to github.md",
-    "Pasted image 20230517112119.png",
-    "xPNGs/Docker-Compose_example3.0.png",
-    "Pasted image 20230517111145.png",
+    "SSH Key/SSH Key Commands.md",
+    "Github/How to push obsidian to github.md",
     "Docker-Compose_example2.0.md",
     "Pasted image 20230517091047.png.md",
     "SSH Key",
-    "Untitled",
-    "xPNGs",
-    "Linux",
-    "Github",
-    "Pasted image 20230517110543.png",
-    "Docker/02_Docker Compose",
-    "Docker",
-    "Pasted image 20230517110353.png.md",
-    "Pasted image 20230517110407.png.md",
-    "Pasted image 20230517110346.png",
-    "Pasted image 20230517110353.png",
-    "test.md"
+    "xPNGs"
   ]
 }
