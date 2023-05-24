@@ -9,4 +9,5 @@
 `kubectl describe pods "podname"` = Describes the pods in Detail
 `kubectl get rs` = Get ReplicaSets on the system
 `kubectl describe replicaset` = Describes the replicaset
+`kubectl get all` = All information
 

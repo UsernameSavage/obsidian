@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "69c8a85b4bb7b78f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "K8s/Kubernetes/02_Kubernetes-Begriffe.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "kubectl rollout status",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Github/How to push obsidian to github.md",
+                "file": "K8s/Kubernetes/02_Kubernetes-Begriffe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Github/How to push obsidian to github.md",
+                "file": "K8s/Kubernetes/02_Kubernetes-Begriffe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Github/How to push obsidian to github.md"
+                "file": "K8s/Kubernetes/02_Kubernetes-Begriffe.md"
               }
             }
           }
@@ -146,53 +159,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "569e519f6df3df66",
+  "active": "69c8a85b4bb7b78f",
   "lastOpenFiles": [
-    "K8s/YAML/YAML with ReplicationController.md",
-    "K8s/01_Kubernetes Definition.md",
-    "K8s/02_Kubernetes-Begriffe.md",
-    "K8s/03_Commands.md",
-    "K8s/Replica/03_Replica Controller.md",
-    "K8s/Replica/04_Replica Commans.md",
-    "K8s/Replica/01_Replicas.md",
-    "K8s/YAML/YAML in k8s.md",
-    "K8s/Cluster.md",
-    "K8s/04_Kubernetes Run-Commands.md",
-    "Docker/01_Docker Commands.md",
-    "K8s/Pods/Pods Definition.md",
-    "K8s/Pods/Pod Commands.md",
-    "Docker/Docker Network.md",
-    "Docker/02_Docker Compose/Example for Docker Compose.md",
-    "K8s/Replica/02_Replica Set.md",
-    "xPNGs/K8s/YAML-RC.png",
-    "K8s/YAML",
-    "K8s/Replica",
-    "SSH Key/SSH Key-Definition.md",
-    "xPNGs/Docker/Docker-compose-example5.0.png",
-    "K8s/Replicas.md",
-    "xPNGs/K8s/YAML-k8s.png",
-    "xPNGs/Pasted image 20230522125233.png",
-    "K8s/Scale/Scale Commands.md",
-    "K8s/Scale",
-    "K8s/Untitled/Scale Commands.md",
-    "K8s/Replica",
-    "xPNGs/K8s/k8s-Pod.png",
-    "xPNGs/K8s/kubectl-describe.png",
-    "xPNGs/K8s/kubectl-describe2.0.png",
-    "xPNGs/K8s/kubectl-describe3.0.png",
-    "kubectl-describe.png.md",
-    "xPNGs/K8s/kubectl-describe3.0.png",
-    "xPNGs/Docker",
-    "xPNGs/K8s",
-    "xPNGs/Pasted image 20230522113300 1.png",
-    "K8s/Pods",
-    "K8s",
-    "Linux/Linux Commands.md",
-    "SSH Key/SSH Key Commands.md",
+    "K8s/Kubernetes/03_Kubernetes-Commands.md",
+    "K8s/Kubernetes/02_Kubernetes-Begriffe.md",
+    "K8s/Kubernetes/01_Kubernetes Definition.md",
+    "K8s/Kubernetes Cluster/Cluster.md",
+    "K8s/Kubernetes Pods/Pods Definition.md",
+    "K8s/Kubernetes Pods/Pod Commands.md",
+    "K8s/Kubernetes Services/ClusterIP.md",
+    "K8s/Kubernetes Services/NodePort.md",
+    "K8s/Kubernetes Updates/Kubernetes Rollback.md",
+    "K8s/Kubernetes Updates/Kubernetes Rollout.md",
+    "K8s/Kubernetes Updates/Update Strategys.md",
     "Github/How to push obsidian to github.md",
-    "Docker-Compose_example2.0.md",
-    "Pasted image 20230517091047.png.md",
-    "SSH Key",
-    "xPNGs"
+    "xPNGs/K8s/k8s-NodePort.png",
+    "xPNGs/K8s/k8s-NodePort3.0.png",
+    "xPNGs/K8s/k8s-NodePort2.0.png",
+    "K8s/Kubernetes Services/LoadBalancer.md",
+    "Docker/02_Docker Commands.md",
+    "Docker/03_Docker Network.md",
+    "Docker/01_Docker Compose/Examples for Docker Compose.md",
+    "Linux/Linux Commands.md",
+    "xPNGs/K8s/k8s-Update2.0.png",
+    "xPNGs/K8s/k8s-Update.png",
+    "xPNGs/K8s/k8s-Update4.0.png",
+    "xPNGs/K8s/k8s-Update3.0.png",
+    "xPNGs/K8s/YAML-RC.png",
+    "K8s/Kubernetes Deploymen.md",
+    "K8s/Scale/Scale Commands.md",
+    "K8s/Kubernetes Deployment",
+    "K8s/Kubernetes Cluster",
+    "K8s/Kubernetes",
+    "K8s/Kubernetes Services",
+    "K8s/Kubernetes Updates/Updates.md",
+    "K8s/Kubernetes Updates/Rolling Update.md",
+    "K8s/Kubernetes Updates",
+    "K8s/Kubernetes Replica/04_Replica Commans.md",
+    "K8s/Kubernetes Replica/03_Replica Controller.md",
+    "K8s/Kubernetes Replica/02_Replica Set.md",
+    "K8s/Kubernetes Replica/01_Replicas.md",
+    "K8s/YAML/YAML in k8s.md",
+    "K8s/YAML",
+    "K8s/Kubernetes Replica",
+    "xPNGs/Docker/Docker-compose-example5.0.png",
+    "xPNGs/K8s/YAML-k8s.png",
+    "K8s/Scale",
+    "K8s/Kubernetes Replica",
+    "xPNGs/Docker"
   ]
 }
