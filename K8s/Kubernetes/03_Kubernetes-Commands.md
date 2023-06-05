@@ -11,3 +11,8 @@
 `kubectl describe replicaset` = Describes the replicaset
 `kubectl get all` = All information
 
+
+##### kubectl create
+kubectl create -f pod-definition.yml = Creates the Pod
+kubectl create -f service-definition.yml = Creates a service defined in the yaml file
+kubectl expose pod redis --port=6379 --name redis-service
