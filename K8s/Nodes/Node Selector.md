@@ -1,0 +1,2 @@
+![[Pasted image 20230607092116.png]]![[Pasted image 20230607092134.png]]
+For selecting a desired Node you want to have you pod on you have to create a label and define it in the pod-definition.yaml file.  

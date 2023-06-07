@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Github/How to push obsidian to github.md",
+                "file": "K8s/Kubernetes Updates/Kubernetes Rollout.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "entry",
+                "query": "configmaps",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Github/How to push obsidian to github.md",
+                "file": "K8s/Kubernetes Updates/Kubernetes Rollout.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Github/How to push obsidian to github.md",
+                "file": "K8s/Kubernetes Updates/Kubernetes Rollout.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Github/How to push obsidian to github.md"
+                "file": "K8s/Kubernetes Updates/Kubernetes Rollout.md"
               }
             }
           }
@@ -148,41 +148,43 @@
   },
   "active": "863fb37c0dda58f6",
   "lastOpenFiles": [
-    "Docker/02_Docker Commands.md",
-    "K8s/YAML/YAML with ReplicationController.md",
-    "xPNGs/Pasted image 20230605142101.png",
-    "K8s/Kubernetes/03_Kubernetes-Commands.md",
-    "K8s/Kubernetes Pods/Pod Commands.md",
+    "K8s/Kubernetes Updates/Kubernetes Rollback.md",
     "K8s/Kubernetes Pods/Pods Definition.md",
-    "Linux/Linux Commands.md",
     "K8s/YAML/YAML in k8s.md",
-    "K8s/Scale/Scale Commands.md",
+    "K8s/Decode and Encode.md",
+    "K8s/k8s Ressources.md",
+    "K8s/Service Accounts.md",
+    "K8s/Kubernetes/03_Kubernetes-Commands.md",
     "K8s/Kubernetes/01_Kubernetes Definition.md",
     "K8s/Kubernetes/02_Kubernetes-Begriffe.md",
     "K8s/Kubernetes Cluster/Cluster.md",
-    "K8s/Kubernetes Updates/Kubernetes Rollback.md",
-    "K8s/Kubernetes Updates/Update Strategys.md",
-    "K8s/Kubernetes Updates/Kubernetes Rollout.md",
-    "K8s/Kubernetes Services/NodePort.md",
-    "K8s/Kubernetes Services/LoadBalancer.md",
-    "K8s/Kubernetes Replica/04_Replica Commans.md",
-    "K8s/Kubernetes Replica/03_Replica Controller.md",
-    "K8s/Kubernetes Replica/02_Replica Set.md",
     "K8s/Kubernetes Replica/01_Replicas.md",
-    "xPNGs/Pasted image 20230605090323.png",
+    "K8s/Kubernetes Replica/04_Replica Commans.md",
+    "K8s/Kubernetes Replica/02_Replica Set.md",
+    "K8s/Kubernetes Replica/03_Replica Controller.md",
+    "K8s/Kubernetes Updates/Kubernetes Rollout.md",
+    "K8s/Kubernetes Updates/Update Strategys.md",
+    "K8s/YAML/YAML with ReplicationController.md",
+    "K8s/Kubernetes Pods/Pod Commands.md",
+    "K8s/Kubernetes Services/NodePort.md",
     "Github/How to push obsidian to github.md",
-    "31.5.md",
-    "K8s/Kubernetes Services/ClusterIP.md",
-    "xPNGs/K8s/k8s-NodePort.png",
-    "xPNGs/K8s/k8s-NodePort3.0.png",
-    "xPNGs/K8s/k8s-NodePort2.0.png",
-    "Docker/03_Docker Network.md",
+    "Docker/02_Docker Commands.md",
+    "K8s/Nodes/Node Selector.md",
+    "xPNGs/Pasted image 20230607092134.png",
+    "xPNGs/Pasted image 20230607092116.png",
+    "K8s/Nodes",
+    "xPNGs/Pasted image 20230607090502.png",
     "Docker/01_Docker Compose/Examples for Docker Compose.md",
-    "xPNGs/K8s/k8s-Update2.0.png",
-    "xPNGs/K8s/k8s-Update.png",
-    "xPNGs/K8s/k8s-Update4.0.png",
-    "xPNGs/K8s/k8s-Update3.0.png",
-    "xPNGs/K8s/YAML-RC.png",
+    "Docker/03_Docker Network.md",
+    "Docker/User.md",
+    "xPNGs/Pasted image 20230607085127.png",
+    "xPNGs/Pasted image 20230607084151.png",
+    "xPNGs/Pasted image 20230607084051.png",
+    "xPNGs/Pasted image 20230607084035.png",
+    "K8s/ConfigMap.md",
+    "xPNGs/Pasted image 20230605142101.png",
+    "xPNGs/Pasted image 20230605090323.png",
+    "xPNGs/K8s/k8s-NodePort.png",
     "K8s/Kubernetes Deployment",
     "K8s/Kubernetes Cluster",
     "K8s/Kubernetes",
@@ -191,7 +193,6 @@
     "K8s/YAML",
     "K8s/Kubernetes Replica",
     "K8s/Scale",
-    "K8s/Kubernetes Replica",
-    "xPNGs/Docker"
+    "K8s/Kubernetes Replica"
   ]
 }
