@@ -1,4 +1,4 @@
-##### Recreate Updates
+ ##### Recreate Updates
 Recreate Updates destroys all applications at once and create new ones. During the time, the applications are not available for anyone. - bad
 You can see on the events that the replica set was set from 5 to 0 and then from 0 to 5
 ![[k8s-Update.png]]

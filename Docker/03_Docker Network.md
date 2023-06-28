@@ -12,3 +12,6 @@ mit `docker network inspect bridge/host/none` findest du informationen zum Netzw
 
 *Netzwerk erstellen
 `docker network create --driver bridge --subnet 182.18.0.1/24 --gateway 182.18.0.1 wp-mysql-network` = Erstellt ein Bridge Netzwerk inklusive Subnetz und Gateway  
+
+
+![[Pasted image 20230626130045.png]]

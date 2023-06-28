@@ -25,3 +25,6 @@ Container mit `docker rm containername` entfernen = Image läuft nicht mehr
 `docker exec e015 cat /etc/*release*` = Lists the Dockerfile
 `docker inspect containername` = Inspecting the Dockerfile
 
+
+##### Docker exec 
+`docker exec -it c62 bash`
