@@ -6,7 +6,7 @@
 `kubectl get pods` = Lists all pods
 `kubectl version --output=yaml` = Kubernetes Version
 `kubectl get nodes -o wide` = You can see the OS from the nodes
-`kubectl describe pods "podname"` = Describes the pods in Detail
+`kubectl describe pod "podname"` = Describes the pods in Detail
 `kubectl get rs` = Get ReplicaSets on the system
 `kubectl describe replicaset` = Describes the replicaset
 `kubectl get all` = All information
