@@ -13,6 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "k8s-config/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "80f06e609e2d1101",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "CKAD/Simulation/Exercises.md",
                 "mode": "source",
                 "source": false
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CKAD/Simulation/Exercises.md",
+                "file": "k8s-config/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CKAD/Simulation/Exercises.md",
+                "file": "k8s-config/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CKAD/Simulation/Exercises.md"
+                "file": "k8s-config/Untitled.md"
               }
             }
           },
@@ -157,24 +169,28 @@
   },
   "active": "7d9d0d5e08bb6718",
   "lastOpenFiles": [
+    "K8s/liveness test.md",
+    "k8s-config/Untitled.md",
+    "k8s-config",
+    "git.md",
+    "xPNGs/CKAD/7_CKAD_Pods,Namespaces-1.png",
+    "xPNGs/CKAD/6_CKAD_ReadinessProbe-3.png",
+    "xPNGs/CKAD/6_CKAD_ReadinessProbe-2.png",
+    "xPNGs/CKAD/6_CKAD_ReadinessProbe-1.png",
+    "xPNGs/CKAD/5_CKAD_ServiceAccount-2.png",
+    "xPNGs/CKAD/5_CKAD_ServiceAccount-1.png",
+    "xPNGs/CKAD/4_CKAD_Helm-Management-4.png",
+    "xPNGs/CKAD/4_CKAD_Helm-Management-3.png",
+    "xPNGs/CKAD/4_CKAD_Helm-Management-2.png",
+    "xPNGs/CKAD/4_CKAD_Helm-Management-1.png",
+    "CKAD/Simulation/Exercises.md",
+    "xPNGs/CKAD",
     "K8s/Scale/Scale Commands.md",
     "SSH Key/SSH Key-Definition.md",
     "Reflexion K8s.md",
     "Helm/Commands.md",
     "K8s/Kubernetes Services/NodePort.md",
-    "CKAD/Simulation/Exercises.md",
     "Docker/01_Docker Compose/Examples for Docker Compose.md",
-    "xPNGs/Pasted image 20231208134021.png",
-    "xPNGs/Pasted image 20231208134006.png",
-    "xPNGs/Pasted image 20231208133954.png",
-    "xPNGs/Pasted image 20231208133925.png",
-    "xPNGs/Pasted image 20231208133913.png",
-    "xPNGs/Pasted image 20231208133905.png",
-    "xPNGs/Pasted image 20231208133824.png",
-    "xPNGs/Pasted image 20231208133817.png",
-    "xPNGs/Pasted image 20231208133758.png",
-    "xPNGs/Pasted image 20231208133746.png",
-    "liveness test.md",
     "CKAD/Simulation",
     "CKAD",
     "Multi-Container Pods.md",
@@ -193,15 +209,11 @@
     "K8s/Kubernetes Replica/04_Replica Commans.md",
     "K8s/Kubernetes Replica/01_Replicas.md",
     "K8s/Kubernetes Cluster/Cluster.md",
-    "git.md",
     "Git/Gitlab",
     "Git/Gitlab.md",
     "Git",
-    "SSH Key/SSH Key Commands.md",
     "Helm",
     "K8s/Volumes",
-    "K8s/Nodes",
-    "K8s/Kubernetes Deployment",
-    "K8s/Kubernetes Cluster"
+    "K8s/Nodes"
   ]
 }

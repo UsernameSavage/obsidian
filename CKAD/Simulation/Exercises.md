@@ -1,21 +1,21 @@
 ## Question 1 Namespaces
-![[Pasted image 20231208131006.png]]
+![[1_CKAD_Namespace-1.png]]
 
 
 ## Question 2 Pods
-![[Pasted image 20231208131135.png]]![[Pasted image 20231208131206.png]]
+![[2_CKAD_Pods-1.png]]![[2_CKAD_Pods-2.png]]
 ## Question 3 Job
-![[Pasted image 20231208131429.png]]
-![[Pasted image 20231208131439.png]]![[Pasted image 20231208131505.png]]![[Pasted image 20231208131517.png]]
+![[3_CKAD_Job-1.png]]
+![[6_CKAD_ReadinessProbe-2.png]]![[6_CKAD_ReadinessProbe-3.png]]![[Pasted image 20231208131517.png]]
 ## Question 4 Helm Management
-![[Pasted image 20231208131627.png]]![[Pasted image 20231208131701.png]]![[Pasted image 20231208131725.png]]![[Pasted image 20231208131739.png]]
+![[4_CKAD_Helm-Management-1.png]]![[4_CKAD_Helm-Management-2.png]]![[4_CKAD_Helm-Management-3.png]]![[4_CKAD_Helm-Management-4.png]]
 ## Question 5 ServiceAccount, Secret
-![[Pasted image 20231208131848.png]]![[Pasted image 20231208131900.png]]
+![[5_CKAD_ServiceAccount-1.png]]![[5_CKAD_ServiceAccount-2.png]]
 ## Question 6 ReadinessProbe
-![[Pasted image 20231208131941.png]]![[Pasted image 20231208131956.png]]![[Pasted image 20231208132006.png]]
+![[6_CKAD_ReadinessProbe-1.png]]![[Pasted image 20231208131956.png]]![[Pasted image 20231208132006.png]]
 ## Question 7 Pods, Namespaces
-![[Pasted image 20231208132105.png]]
-![[Pasted image 20231208132151.png]]
+![[7_CKAD_Pods,Namespaces-1.png]]
+![[7_CKAD_Pods,Namespaces-2.png]]
 ## Question 8 Deployment, Rollouts
 ![[Pasted image 20231208132231.png]]![[Pasted image 20231208132239.png]]
 ## Question 9 Pod -> Deployment
