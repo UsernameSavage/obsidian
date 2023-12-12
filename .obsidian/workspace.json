@@ -11,23 +11,9 @@
             "id": "7d9d0d5e08bb6718",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "k8s-config/Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "80f06e609e2d1101",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CKAD/Simulation/Exercises.md",
-                "mode": "source",
-                "source": false
+                "file": "xPNGs/CKAD/22_CKAD_Labels,Annos-3.png"
               }
             }
           }
@@ -81,7 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 342.5
   },
   "right": {
     "id": "43d500c336d111ed",
@@ -97,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "k8s-config/Untitled.md",
+                "file": "xPNGs/CKAD/22_CKAD_Labels,Annos-3.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "k8s-config/Untitled.md",
+                "file": "xPNGs/CKAD/22_CKAD_Labels,Annos-3.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "k8s-config/Untitled.md"
+                "file": "xPNGs/CKAD/22_CKAD_Labels,Annos-3.png"
               }
             }
           },
@@ -167,23 +153,62 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7d9d0d5e08bb6718",
+  "floating": {
+    "id": "0d301455975aaf6f",
+    "type": "floating",
+    "children": [
+      {
+        "id": "a15fdcccee8b9191",
+        "type": "window",
+        "children": [
+          {
+            "id": "de3d5aa02cc035cc",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "80f06e609e2d1101",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "CKAD/Simulation/Exercises.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 528,
+        "y": 286,
+        "width": 1376,
+        "height": 1116,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "677c7b86ebf5990f",
   "lastOpenFiles": [
-    "K8s/liveness test.md",
+    "xPNGs/CKAD/22_CKAD_Labels,Annos-2.png",
+    "xPNGs/CKAD/22_CKAD_Labels,Annos-3.png",
+    "xPNGs/CKAD/22_CKAD_Labels,Annos-1.png",
+    "xPNGs/CKAD/21_CKAD_Limits,ServiceAccount-3.png",
+    "xPNGs/CKAD/21_CKAD_Limits,ServiceAccount-2.png",
+    "xPNGs/CKAD/21_CKAD_Limits,ServiceAccount-1.png",
+    "CKAD/Simulation/Exercises.md",
+    "xPNGs/CKAD/20_CKAD_NetworkPolicy-5.png",
+    "xPNGs/CKAD/20_CKAD_NetworkPolicy-4.png",
+    "xPNGs/CKAD/20_CKAD_NetworkPolicy-3.png",
+    "xPNGs/CKAD/20_CKAD_NetworkPolicy-2.png",
+    "xPNGs/CKAD/20_CKAD_NetworkPolicy-1.png",
     "k8s-config/Untitled.md",
+    "runAsNonRoot.md",
+    "K8s/liveness test.md",
     "k8s-config",
     "git.md",
-    "xPNGs/CKAD/7_CKAD_Pods,Namespaces-1.png",
-    "xPNGs/CKAD/6_CKAD_ReadinessProbe-3.png",
-    "xPNGs/CKAD/6_CKAD_ReadinessProbe-2.png",
-    "xPNGs/CKAD/6_CKAD_ReadinessProbe-1.png",
-    "xPNGs/CKAD/5_CKAD_ServiceAccount-2.png",
-    "xPNGs/CKAD/5_CKAD_ServiceAccount-1.png",
-    "xPNGs/CKAD/4_CKAD_Helm-Management-4.png",
-    "xPNGs/CKAD/4_CKAD_Helm-Management-3.png",
-    "xPNGs/CKAD/4_CKAD_Helm-Management-2.png",
-    "xPNGs/CKAD/4_CKAD_Helm-Management-1.png",
-    "CKAD/Simulation/Exercises.md",
     "xPNGs/CKAD",
     "K8s/Scale/Scale Commands.md",
     "SSH Key/SSH Key-Definition.md",
@@ -208,9 +233,7 @@
     "K8s/k8s Ressources.md",
     "K8s/Kubernetes Replica/04_Replica Commans.md",
     "K8s/Kubernetes Replica/01_Replicas.md",
-    "K8s/Kubernetes Cluster/Cluster.md",
     "Git/Gitlab",
-    "Git/Gitlab.md",
     "Git",
     "Helm",
     "K8s/Volumes",
