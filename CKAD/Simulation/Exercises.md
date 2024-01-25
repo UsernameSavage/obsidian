@@ -3,23 +3,23 @@
 
 
 ## Question 2 Pods
-![[2_CKAD_Pods-1.png]]![[2_CKAD_Pods-2.png]]
+![[02_CKAD_Pods-1.png]]![[02_CKAD_Pods-2.png]]
 ## Question 3 Job
-![[3_CKAD_Job-1.png]]
-![[3_CKAD_Job-2.png]]![[3_CKAD_Job-3.png]]![[3_CKAD_Job-4.png]]
+![[03_CKAD_Job-1.png]]
+![[03_CKAD_Job-2.png]]![[03_CKAD_Job-3.png]]![[03_CKAD_Job-4.png]]
 ## Question 4 Helm Management
-![[4_CKAD_Helm-Management-1.png]]![[4_CKAD_Helm-Management-2.png]]![[4_CKAD_Helm-Management-3.png]]![[4_CKAD_Helm-Management-4.png]]
+![[04_CKAD_Helm-Management-1.png]]![[04_CKAD_Helm-Management-2.png]]![[04_CKAD_Helm-Management-3.png]]![[04_CKAD_Helm-Management-4.png]]
 ## Question 5 ServiceAccount, Secret
-![[5_CKAD_ServiceAccount-1.png]]![[5_CKAD_ServiceAccount-2.png]]
+![[05_CKAD_ServiceAccount-1.png]]![[05_CKAD_ServiceAccount-2.png]]
 ## Question 6 ReadinessProbe
-![[6_CKAD_ReadinessProbe-1.png]]![[6_CKAD_ReadinessProbe-2.png]]![[6_CKAD_ReadinessProbe-3.png]]
+![[06_CKAD_ReadinessProbe-1.png]]![[06_CKAD_ReadinessProbe-2.png]]![[06_CKAD_ReadinessProbe-3.png]]
 ## Question 7 Pods, Namespaces
-![[7_CKAD_Pods,Namespaces-1.png]]
-![[7_CKAD_Pods,Namespaces-2.png]]
+![[07_CKAD_Pods,Namespaces-1.png]]
+![[07_CKAD_Pods,Namespaces-2.png]]
 ## Question 8 Deployment, Rollouts
-![[8_CKAD_Deployment,Rollouts-1.png]]![[8_CKAD_Deployment,Rollouts-2.png]]
+![[08_CKAD_Deployment,Rollouts-1.png]]![[08_CKAD_Deployment,Rollouts-2.png]]
 ## Question 9 Pod -> Deployment
-![[9_CKAD_Pod->Deployment-1.png]]![[9_CKAD_Pod->Deployment-2.png]]![[9_CKAD_Pod->Deployment-3.png]]
+![[09_CKAD_Pod->Deployment-1.png]]![[09_CKAD_Pod->Deployment-2.png]]![[09_CKAD_Pod->Deployment-3.png]]
 ## Question 10 Service, Logs
 ![[10_CKAD_Service,Logs-1.png]]![[10_CKAD_Service,Logs-2.png]]![[10_CKAD_Service,Logs-3.png]]![[10_CKAD_Service,Logs-4.png]]![[10_CKAD_Service,Logs-5.png]]
 ## Question 11 Working with Containers

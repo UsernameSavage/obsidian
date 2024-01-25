@@ -11,13 +11,26 @@
             "id": "7d9d0d5e08bb6718",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "k8s-config/how to k8s-config.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f39727fd85a65fa2",
+            "type": "leaf",
+            "state": {
               "type": "image",
               "state": {
-                "file": "xPNGs/CKAD/22_CKAD_Labels,Annos-3.png"
+                "file": "xPNGs/CKAD/04_CKAD_Helm-Management-3.png"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -46,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "9",
+                "query": "git push",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 342.5
+    "width": 358.5
   },
   "right": {
     "id": "43d500c336d111ed",
@@ -83,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "xPNGs/CKAD/22_CKAD_Labels,Annos-3.png",
+                "file": "xPNGs/CKAD/04_CKAD_Helm-Management-3.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "xPNGs/CKAD/22_CKAD_Labels,Annos-3.png",
+                "file": "xPNGs/CKAD/04_CKAD_Helm-Management-3.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "xPNGs/CKAD/22_CKAD_Labels,Annos-3.png"
+                "file": "xPNGs/CKAD/04_CKAD_Helm-Management-3.png"
               }
             }
           },
@@ -133,7 +146,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -141,7 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 309.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -153,62 +168,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "floating": {
-    "id": "0d301455975aaf6f",
-    "type": "floating",
-    "children": [
-      {
-        "id": "a15fdcccee8b9191",
-        "type": "window",
-        "children": [
-          {
-            "id": "de3d5aa02cc035cc",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "80f06e609e2d1101",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "CKAD/Simulation/Exercises.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 528,
-        "y": 286,
-        "width": 1376,
-        "height": 1116,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "677c7b86ebf5990f",
+  "active": "f39727fd85a65fa2",
   "lastOpenFiles": [
-    "xPNGs/CKAD/22_CKAD_Labels,Annos-2.png",
-    "xPNGs/CKAD/22_CKAD_Labels,Annos-3.png",
+    "xPNGs/CKAD/04_CKAD_Helm-Management-4.png",
+    "xPNGs/CKAD/04_CKAD_Helm-Management-1.png",
+    "xPNGs/CKAD/03_CKAD_Job-3.png",
+    "xPNGs/CKAD/03_CKAD_Job-2.png",
+    "xPNGs/CKAD/02_CKAD_Pods-2.png",
+    "CKAD/Simulation/Exercises.md",
+    "xPNGs/CKAD/02_CKAD_Pods-1.png",
+    "Git/Gitlab/git push.md",
+    "Git/Gitlab/Pre-Commit.md",
+    "Git/Github/How to push obsidian to github.md",
+    "git.md",
+    "xPNGs/CKAD/17_CKAD_InitContainer-2.png",
+    "xPNGs/CKAD/17_CKAD_InitContainer-3.png",
+    "xPNGs/CKAD/17_CKAD_InitContainer-4.png",
     "xPNGs/CKAD/22_CKAD_Labels,Annos-1.png",
     "xPNGs/CKAD/21_CKAD_Limits,ServiceAccount-3.png",
-    "xPNGs/CKAD/21_CKAD_Limits,ServiceAccount-2.png",
-    "xPNGs/CKAD/21_CKAD_Limits,ServiceAccount-1.png",
-    "CKAD/Simulation/Exercises.md",
-    "xPNGs/CKAD/20_CKAD_NetworkPolicy-5.png",
-    "xPNGs/CKAD/20_CKAD_NetworkPolicy-4.png",
-    "xPNGs/CKAD/20_CKAD_NetworkPolicy-3.png",
-    "xPNGs/CKAD/20_CKAD_NetworkPolicy-2.png",
-    "xPNGs/CKAD/20_CKAD_NetworkPolicy-1.png",
-    "k8s-config/Untitled.md",
+    "k8s-config/how to k8s-config.md",
     "runAsNonRoot.md",
     "K8s/liveness test.md",
     "k8s-config",
-    "git.md",
     "xPNGs/CKAD",
     "K8s/Scale/Scale Commands.md",
     "SSH Key/SSH Key-Definition.md",
@@ -220,13 +201,10 @@
     "CKAD",
     "Multi-Container Pods.md",
     "Untitled.md",
-    "Git/Github/How to push obsidian to github.md",
     "K8s/Kubernetes Deployment/Rollout Deployment.md",
     "K8s/Kubernetes Services/ClusterIP.md",
     "Untitled",
     "K8s/Kubernetes Services/Ingress.md",
-    "Git/Gitlab/git push.md",
-    "Git/Gitlab/Pre-Commit.md",
     "K8s/Port Forwarding.md",
     "K8s/Secret.md",
     "K8s/Multi-container.md",
